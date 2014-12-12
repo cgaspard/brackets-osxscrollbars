@@ -1,0 +1,12 @@
+{
+    "name": "brackets-osxscrollbar",
+    "title": "OSX Scrollbar",
+    "description": "Make the scrollbar look like OSx Native",
+    "homepage": "https://github.com/cgaspard/brackets-brackets-osxscrollbar",
+    "version": "0.0.1",
+    "author": "Corey Gaspard",
+    "license": "BSD",
+    "engines": {
+        "brackets": ">=0.35.0"
+    }
+}
